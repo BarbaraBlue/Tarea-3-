@@ -5,9 +5,9 @@ Algoritmo en función de preparar un desayuno.
 3. Preparar jugo de naranja
 4. Servir vaso de jugo de naranja
 5. Calentar sarten 
-6. Preparar panqueque 
+6. Preparar panqueque
 7. Rellenar con manjar 
-8. Servir panqueque
+8. Servir panqueque caliente con manjar
 9. Cortar palta
 10. Moler palta
 11. Cortar pan
@@ -16,5 +16,6 @@ Algoritmo en función de preparar un desayuno.
 14. Servir pan caliente con palta 
 15. Calentar agua
 16. Preparar café
-17. Servir desayuno
-18. FIN (guten Appetit)
+17. Servir café caliente
+18. Servir desayuno (completo)
+19. FIN (guten Appetit)
