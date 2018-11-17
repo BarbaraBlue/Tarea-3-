@@ -1,6 +1,6 @@
 # Tarea-3-
 Algoritmo en función de preparar un desayuno
-INICIO (Ñam)
+0. INICIO (Ñam)
 1. Cortar naranja
 2. Preparar jugo de naranja
 3. Servir vaso de jugo de naranja
@@ -17,4 +17,4 @@ INICIO (Ñam)
 14. Calentar agua
 15. Preparar café
 16. Servir desayuno
-FIN (guten Appetit)
+0. FIN (guten Appetit)
